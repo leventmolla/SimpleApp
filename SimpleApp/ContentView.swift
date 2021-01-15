@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.red)
             Text("Take me to your leader")
                 .font(.title2)
-                .foregroundColor(.green)
+                .foregroundColor(.blue)
             
             Image("alien dog")
        }
